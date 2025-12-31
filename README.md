@@ -2,9 +2,34 @@
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
+
 <title>منصة مدارس كفاح البروف – نتائج الطلاب</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- وصف الموقع -->
+<meta name="description" content="منصة مدارس كفاح البروف هي منصة إلكترونية لعرض نتائج الطلاب والاستعلام عن نتائج الامتحانات باستخدام رقم الجلوس بكل سهولة.">
+
+<!-- الكلمات المفتاحية -->
+<meta name="keywords" content="
+نتائج الطلاب,
+نتيجة الطلاب,
+نتائج المدارس,
+نتائج الامتحانات,
+نظام نتائج مدرسية,
+نتائج طلاب السودان,
+نتائج المدارس السودانية,
+مدارس كفاح البروف,
+منصة نتائج,
+Final result,
+Student results,
+School results,
+Exam results
+">
+
+<meta name="author" content="منصة مدارس كفاح البروف">
+<meta name="language" content="ar">
+<meta name="robots" content="index, follow">
 
 <style>
 body{font-family:Tahoma;background:#f2f2f2;margin:0}
